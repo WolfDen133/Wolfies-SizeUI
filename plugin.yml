@@ -1,0 +1,17 @@
+---
+name: Wolfies-SizeUI
+version: 1.5.0
+main: WolfDen133\Wolfies_SizeUI\Main
+description: A simple and easy to use SizeUI Plugin!
+api: 3.0.0
+depend: FormAPI
+commands:
+  size:
+    description: Change your size with a simple UI!
+    usage: "/size"
+    permission: command.size.use
+permissions:
+  command.size.use:
+    description: Change your size with a simple UI!
+    default: true
+...
