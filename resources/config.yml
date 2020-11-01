@@ -1,0 +1,13 @@
+#You can choose between 2 different UI's, a CustomUI and a SimpleUI.
+#The choices are "Preset" or "Custom.
+#PresetUI: 4 Different sizes, 50%, 75%, 100%, 125%, 150%.
+#CustomUI: Fully custom with the settings below.
+#Use '§' for colours.
+
+Title: "§aSizeUI" 								#Title: Can be anything!
+Content: "§7Set your size with our easy and custom UI!\n Made by WolfDen133" 	#Content: Can be anything!
+Type: "Preset" 									#Type: "Preset" or "Custom"
+Shortest: 50 									#Shortest: The shortest value of the UI!
+Tallest: 150 									#Tallest: The tallest value of the UI!
+Default: 100 									#Default: The default value of the UI!
+Steps: 10 									#Steps: The about of steps between the scale of values!
