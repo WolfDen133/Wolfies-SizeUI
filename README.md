@@ -5,4 +5,5 @@ Make sure to check out config.yml for more customisable content!
 You can change players sizes in Player.yml
 
 Commands: /size
+
 Permissions: command.size.use
